@@ -9,6 +9,12 @@
 
 package edu.princeton.cs.algs4;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+
 /**
  *  The {@code Inversions} class provides static methods to count the 
  *  number of <em>inversions</em> in either an array of integers or comparables.
